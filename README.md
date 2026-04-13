@@ -1,37 +1,49 @@
-# 💫 About Me
-**App & Game Developer | ECE Student | Part-time Front-end Dev**
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Cat" />
+</div>
 
-I create free apps and games to learn new things and help others. Currently balancing engineering labs with code.
+<div align="center">
+  <a href="https://linkedin.com/in/gregory-roumeliotis-622a85322" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://itch.io/profile/gregstillplays" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itchdotio&label=&color=FA5C5C&logoColor=white&style=for-the-badge" height="25" alt="itch.io logo" />
+  </a>
+  <a href="https://buymeacoffee.com/gregstillplays" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20A%20Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" height="25" alt="buy me a coffee logo" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GregStillPlays.GregStillPlays" alt="visitor badge" />
+</div>
 
-### 💻 Tech Stack
+<h1 align="center">Heya there 👋</h1>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue" />
+I'm <strong>Greg</strong>! I’m a <strong>part-time front-end developer</strong> and an <strong>ECE student</strong>. I <italic>love</italic> making apps and games for people to enjoy, so check things out if you're interested!
 </p>
 
----
+<h3 align="left">🛠 Languages and Tools</h3>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GregStillPlays&show_icons=true&theme=shades-of-purple&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GregStillPlays&theme=shades-of-purple" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" alt="unity logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo" />
+</div>
 
----
+<h3 align="left">🔥 My Stats</h3>
 
-### ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GregStillPlays&icon=0&color=0" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GregStillPlays&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=GregStillPlays&show_icons=true&theme=dark&count_private=true" height="190" alt="stats graph" />
+</div>
