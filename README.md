@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a front-end C# developer at a startup.<br>👯 I’m looking to collaborate on game projects if anyone's interested!<br>🌱 I’m currently learning Flutter
+🔭 I’m currently working as a front-end developer.<br>
 
 
 # 💻 Tech Stack:
