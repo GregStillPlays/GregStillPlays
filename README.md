@@ -18,7 +18,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GregStillPlays.GregStillPlays" alt="visitor badge" />
 </div>
 
-<h1 align="center">Heya there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <p align="left">
 I'm <strong>Greg</strong>! I’m a <strong>part-time front-end developer</strong> and an <strong>ECE student</strong>. I <italic>love</italic> making apps and games for people to enjoy, so check things out if you're interested!
