@@ -21,7 +21,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="left">
-I'm <strong>Greg</strong>. I’m a <strong>part-time front-end developer</strong> and an <strong>ECE student</strong>. I <italic>love</italic> making apps and games for people to enjoy, so check things out if you're interested!
+I'm <strong>Greg</strong>. I’m a <strong>software developer</strong> and an <strong>ECE student</strong>. I <italic>love</italic> making apps and games for people to enjoy, so check things out if you're interested!
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
